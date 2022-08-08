@@ -1,5 +1,5 @@
 # Google CSSI Websites I Made
-During the course of the Google Computer Science Summer Institute (CSSI), I had the opportunity to learn the basics of HTML, CSS, and JavaScript. Attached below are just some of the websites I helped make!
+During the course of the Google Computer Science Summer Institute (CSSI), I had the opportunity to learn the basics of HTML, CSS, and JavaScript. Attached below are just some of the websites I made!
 
 ## Restaurant Page - 
 https://replit.com/@SabrinaDo/CSSI-2022-Day-1-Work#index.html 
