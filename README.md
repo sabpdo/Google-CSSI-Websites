@@ -21,31 +21,32 @@ https://replit.com/@SabrinaDo/CSSI-2022-Day-5-Work#index.html
 
 https://CSSI-2022-Day-5-Work.sabrinado.repl.co
 
-##Language Guesser Quiz
+## Language Guesser Quiz -
 https://replit.com/@SabrinaDo/CSSI-2022-Day-7-Work 
 
 https://cssi-2022-day-7-start.sabrinado.repl.co/ 
 
-##Personality Quiz
+## Personality Quiz -
 https://replit.com/@SabrinaDo/CSSI-2022-Day-9-Work
 
 https://CSSI-2022-Day-9-Work.sabrinado.repl.co 
 
-##Globe Explorer
+## Globe Explorer -
 https://replit.com/@SabrinaDo/GroupProject2#script.js 
 
 https://GroupProject2.sabrinado.repl.co
 
-##Jeopardy Board
+## Jeopardy Board -
 https://replit.com/@SabrinaDo/CSSI-2022-Day-11-Work#index.html 
 
 https://CSSI-2022-Day-11-Work.sabrinado.repl.co 
 
-##GIF Maker
+## GIF Maker -
 https://replit.com/@SabrinaDo/CSSI-2022-Day-12-Working#index.html 
 
 https://CSSI-2022-Day-12-Work.sabrinado.repl.co 
 
-##Burger Maker
+## Burger Maker -
 https://CSSI-2022-Day-13-Work.sabrinado.repl.co 
+
 https://replit.com/@SabrinaDo/CSSI-2022-Day-13-Work#index.html 
